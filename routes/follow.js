@@ -3,3 +3,9 @@
  */
 const express = require('express');
 const router = express.Router();
+
+router.get('/follow', function (req, res, next) {
+  res.send('success follow');
+});
+
+module.exports = router;

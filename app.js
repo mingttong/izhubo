@@ -9,7 +9,12 @@ const index = require('./routes/index');
 const users = require('./routes/users');
 const follow = require('./routes/follow');
 
+const checkShowStatus = require('./lib/checkShowStatus');
+
 const app = express();
+
+// check show status
+checkShowStatus();
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
