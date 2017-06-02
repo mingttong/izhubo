@@ -109,6 +109,16 @@
         }
       ],
       "show_status": false
+    },
+    {
+      "room_id": 586512,
+      "users": [
+        {
+          "name": "周吾南",
+          "phone": 18515220443
+        }
+      ],
+      "show_status": false
     }
   ]
 }
