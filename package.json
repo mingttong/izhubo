@@ -11,12 +11,13 @@
     "debug": "~2.6.0",
     "express": "~4.14.1",
     "hbs": "~4.0.1",
-    "morgan": "~1.7.0",
     "moment": "~2.18.1",
-    "serve-favicon": "~2.3.2",
+    "morgan": "~1.7.0",
     "phantom": "~4.0.2",
+    "pinyin": "^2.8.3",
     "request": "~2.81.0",
     "request-promise": "~4.2.1",
+    "serve-favicon": "~2.3.2",
     "ws": "~3.0.0"
   }
 }
