@@ -2,16 +2,7 @@
   "room_list": [
     {
       "room_id": 85963,
-      "users": [
-        {
-          "name": "周吾南",
-          "phone": 18515220443
-        }
-      ],
-      "show_status": false
-    },
-    {
-      "room_id": 17732,
+      "nickname": "炮哥",
       "users": [
         {
           "name": "周吾南",
@@ -22,6 +13,7 @@
     },
     {
       "room_id": 69752,
+      "nickname": "十三姨",
       "users": [
         {
           "name": "周吾南",
@@ -32,16 +24,7 @@
     },
     {
       "room_id": 67373,
-      "users": [
-        {
-          "name": "周吾南",
-          "phone": 18515220443
-        }
-      ],
-      "show_status": false
-    },
-    {
-      "room_id": 65251,
+      "nickname": "陈一发儿",
       "users": [
         {
           "name": "周吾南",
@@ -52,26 +35,7 @@
     },
     {
       "room_id": 656971,
-      "users": [
-        {
-          "name": "周吾南",
-          "phone": 18515220443
-        }
-      ],
-      "show_status": false
-    },
-    {
-      "room_id": 2094956,
-      "users": [
-        {
-          "name": "周吾南",
-          "phone": 18515220443
-        }
-      ],
-      "show_status": false
-    },
-    {
-      "room_id": 610588,
+      "nickname": "简言",
       "users": [
         {
           "name": "周吾南",
@@ -82,6 +46,7 @@
     },
     {
       "room_id": 570284,
+      "nickname": "淑女佳",
       "users": [
         {
           "name": "周吾南",
@@ -91,7 +56,8 @@
       "show_status": false
     },
     {
-      "room_id": 231464,
+      "room_id": 606118,
+      "nickname": "大司马",
       "users": [
         {
           "name": "周吾南",
@@ -101,7 +67,8 @@
       "show_status": false
     },
     {
-      "room_id": 265688,
+      "room_id": 138286,
+      "nickname": "五五开",
       "users": [
         {
           "name": "周吾南",
@@ -111,7 +78,8 @@
       "show_status": false
     },
     {
-      "room_id": 586512,
+      "room_id": 71017,
+      "nickname": "冯提莫",
       "users": [
         {
           "name": "周吾南",
