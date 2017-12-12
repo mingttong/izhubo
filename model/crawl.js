@@ -1,5 +1,5 @@
 /**
- * @file room model
+ * @file crawl model
  * @author zhouwunan
  */
  'use strict'
